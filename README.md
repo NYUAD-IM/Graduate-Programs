@@ -1,4 +1,4 @@
-#A List of Graduate Programs "Related" to Interactive Media
+#IM-Related Graduate Programs
 
 ####United States:
 * [Art Center College of Design - Graduate Media Design Practices MFA](http://mediadesignpractices.net/)  
