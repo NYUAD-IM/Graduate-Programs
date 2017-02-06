@@ -7,7 +7,7 @@
 * [Carnegie Mellon University - MDes in Design for Interactions](http://design.cmu.edu/content/master-design) (2 years)    
 * [Carnegie Mellon University - MCI](https://www.hcii.cmu.edu/academics/mhci)  
 * [Georgia Tech - HCI Interactive Computing](http://mshci.gatech.edu/program/about)
-* [NYU - Interactive Telecommunications Program](https://tisch.nyu.edu/itp)
+* [NYU - Interactive Telecommunications Program MPS](https://tisch.nyu.edu/itp)
 * [NYU - Integrated Digital Media Program](http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms)  
 * [NYU Game Center - Game Design MFA](http://gamecenter.nyu.edu/academics/game-design-mfa/)
 * [M.I.T. Media Lab = Media Arts & Sciences](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)
@@ -21,7 +21,7 @@
 ####UK
 * [Goldsmith’s - Computational Arts MA](http://www.gold.ac.uk/pg/ma-computational-arts/)  
 * [Goldsmith’s - Computational Arts MFA](http://www.gold.ac.uk/pg/mfa-computational-arts/)  
-* [University College London - HCI Msc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/human-computer-interaction-msc)  
+* [University College London - HCI MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/human-computer-interaction-msc)  
 
 -
 
