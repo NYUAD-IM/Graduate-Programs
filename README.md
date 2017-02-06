@@ -8,7 +8,7 @@
 * [Carnegie Mellon University - MCI](https://www.hcii.cmu.edu/academics/mhci)  
 * [Georgia Tech - HCI Interactive Computing](http://mshci.gatech.edu/program/about)
 * [NYU - Interactive Telecommunications Program](https://tisch.nyu.edu/itp)
-* [NYU - Integrated Digital Media Program]([http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms)
+* [NYU - Integrated Digital Media Program](http://engineering.nyu.edu/academics/programs/integrated-digital-media-ms)  
 * [NYU Game Center - Game Design MFA](http://gamecenter.nyu.edu/academics/game-design-mfa/)
 * [M.I.T. Media Lab = Media Arts & Sciences](https://www.media.mit.edu/graduate-program/about-media-arts-sciences/)
 * [Parsons School of Design - Design and Technology MFA](http://www.newschool.edu/parsons/mfa-design-technology/)
