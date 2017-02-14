@@ -31,11 +31,16 @@
 
 ####UK
 * [Goldsmith’s - Computational Arts MA](http://www.gold.ac.uk/pg/ma-computational-arts/)  
-* [Goldsmith’s - Computational Arts MFA](http://www.gold.ac.uk/pg/mfa-computational-arts/)  
+* [Goldsmith’s - Computational Arts MFA](http://www.gold.ac.uk/pg/mfa-computational-arts/) 
+* [London College of Communcations - MA Interaction Design Communication](http://www.arts.ac.uk/lcc/courses/postgraduate/ma-interaction-design-communication/)
 * [Newcastle University - Culture Lab](http://www.ncl.ac.uk/culturelab/)
+* [Ravensbourne - Interactive Digital Media](https://www.ravensbourne.ac.uk/study-here/postgraduate/mamsc-interactive-digital-media/)
+* [RCA - Innovation Design Engineering](https://www.rca.ac.uk/schools/school-of-design/innovation-design-engineering/)
 * [University College London - HCI MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/human-computer-interaction-msc)
 
 -
 
 ####Europe
 * [Copenhagen Institute of Interaction Design](http://ciid.dk/)  
+* [Malmo University - Interaction design](http://edu.mah.se/en/Program/TAIND)
+* [Malmo University - Media and Communication Studies – Culture, Collaborative Media, and Cultural Industries](http://edu.mah.se/en/Program/HAMKV)
