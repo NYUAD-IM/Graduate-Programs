@@ -29,6 +29,12 @@
 
 -
 
+####Canada
+* [Concordia University - Computation Arts](https://www.concordia.ca/finearts/design/programs/graduate/design.html)
+* [OCAD University -  Digital Futures](http://www.ocadu.ca/academics/graduate-studies.htm)
+
+-
+
 ####UK
 * [Goldsmith’s - Computational Arts MA](http://www.gold.ac.uk/pg/ma-computational-arts/)  
 * [Goldsmith’s - Computational Arts MFA](http://www.gold.ac.uk/pg/mfa-computational-arts/) 
@@ -44,3 +50,7 @@
 * [Copenhagen Institute of Interaction Design](http://ciid.dk/)  
 * [Malmo University - Interaction design](http://edu.mah.se/en/Program/TAIND)
 * [Malmo University - Media and Communication Studies – Culture, Collaborative Media, and Cultural Industries](http://edu.mah.se/en/Program/HAMKV)
+* [Berlin Unversity - Design Research Lab](http://www.design-research-lab.org/)
+* [Max Planck Institute - Computer Science Research](http://www.cis.mpg.de/)
+* [Les Gobelins - Masters for Digital Design](http://www.gobelins-school.com/)
+* [National School of Decorative Arts - Multimedia Design](http://www.ensad.fr/en/departments/graphic-design/instruction)
