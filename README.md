@@ -1,12 +1,13 @@
-#IM-Related Graduate Programs
+# IM-Related Graduate Programs
 
-####United States:
+#### United States:
 * [Art Center College of Design - Graduate Media Design Practices MFA](http://mediadesignpractices.net/)  
 * [Alfred University - Electronic Integrated Arts](http://art.alfred.edu/graduate/mfa-eia/)
 * [California College of the Arts - Master of Interaction Design](https://www.cca.edu/academics/graduate/interaction-design)  
 * [Carnegie Mellon University - MPS in Design for Interactions](http://design.cmu.edu/content/master-professional-studies) (1 year)
 * [Carnegie Mellon University - MDes in Design for Interactions](http://design.cmu.edu/content/master-design) (2 years) 
-* [Carnegie Mellon University - MCI](https://www.hcii.cmu.edu/academics/mhci)  
+* [Carnegie Mellon University - MCI](https://www.hcii.cmu.edu/academics/mhci)
+* [Cornell Tech - Connective Media MS](https://tech.cornell.edu/programs/masters-programs/technion-cornell-master-degree-in-connective-media)
 * [Colorado University - Technology, Arts & Media](http://tam.colorado.edu/)
 * [Georgia Tech - HCI Interactive Computing](http://mshci.gatech.edu/program/about)
 * [Georgia Tech - Digital Media](http://catalog.gatech.edu/programs/digital-media-phd/)
@@ -29,13 +30,13 @@
 
 -
 
-####Canada
+#### Canada
 * [Concordia University - Computation Arts](https://www.concordia.ca/finearts/design/programs/graduate/design.html)
 * [OCAD University -  Digital Futures](http://www.ocadu.ca/academics/graduate-studies.htm)
 
 -
 
-####UK
+#### UK
 * [Goldsmith’s - Computational Arts MA](http://www.gold.ac.uk/pg/ma-computational-arts/)  
 * [Goldsmith’s - Computational Arts MFA](http://www.gold.ac.uk/pg/mfa-computational-arts/) 
 * [London College of Communcations - MA Interaction Design Communication](http://www.arts.ac.uk/lcc/courses/postgraduate/ma-interaction-design-communication/)
@@ -46,7 +47,7 @@
 
 -
 
-####Europe
+#### Europe
 * [Copenhagen Institute of Interaction Design](http://ciid.dk/)  
 * [Malmo University - Interaction design](http://edu.mah.se/en/Program/TAIND)
 * [Malmo University - Media and Communication Studies – Culture, Collaborative Media, and Cultural Industries](http://edu.mah.se/en/Program/HAMKV)
