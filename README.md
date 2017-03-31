@@ -28,13 +28,9 @@
 * [University of Washington - DXARTS](https://dxarts.washington.edu/)
 * [University of Washington - MHCI+D](https://mhcid.washington.edu/)
 
--
-
 #### Canada
 * [Concordia University - Computation Arts](https://www.concordia.ca/finearts/design/programs/graduate/design.html)
 * [OCAD University -  Digital Futures](http://www.ocadu.ca/academics/graduate-studies.htm)
-
--
 
 #### UK
 * [Goldsmith’s - Computational Arts MA](http://www.gold.ac.uk/pg/ma-computational-arts/)  
@@ -44,8 +40,6 @@
 * [Ravensbourne - Interactive Digital Media](https://www.ravensbourne.ac.uk/study-here/postgraduate/mamsc-interactive-digital-media/)
 * [RCA - Innovation Design Engineering](https://www.rca.ac.uk/schools/school-of-design/innovation-design-engineering/)
 * [University College London - HCI MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/human-computer-interaction-msc)
-
--
 
 #### Europe
 * [Copenhagen Institute of Interaction Design](http://ciid.dk/)  
