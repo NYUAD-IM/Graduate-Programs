@@ -33,6 +33,7 @@
 * [OCAD University -  Digital Futures](http://www.ocadu.ca/academics/graduate-studies.htm)
 
 #### UK
+* [Bartlett School of Architecture UCL - Masters in Design for Performance & Interaction](http://www.interactivearchitecture.org/dfpi)
 * [Goldsmith’s - Computational Arts MA](http://www.gold.ac.uk/pg/ma-computational-arts/)  
 * [Goldsmith’s - Computational Arts MFA](http://www.gold.ac.uk/pg/mfa-computational-arts/) 
 * [London College of Communcations - MA Interaction Design Communication](http://www.arts.ac.uk/lcc/courses/postgraduate/ma-interaction-design-communication/)
