@@ -21,7 +21,7 @@
 * [RISD - Digital+Media](http://www.risd.edu/academics/digital-media/)
 * [School of the Arts Institute of Chicago](http://www.saic.edu/academics/divisions/graduate/)
 * [Stanford University - Masters of Science in Engineering, Design Impact](http://designimpact.stanford.edu/)
-* [SUNY Buffalo - Department of Media Studies (PhD & MFA)](https://mediastudy.buffalo.edu/)
+* [SUNY Buffalo - Department of Media Study (PhD & MFA)](https://mediastudy.buffalo.edu/)
 * [UCLA - Design Media Arts](http://dma.ucla.edu/grad/program/) 
 * [UCSB - Media Arts and Technology Graduate Program](https://www.mat.ucsb.edu/)
 * [University of Denver - Emergent Digital Practices](http://www.du.edu/ahss/edp/index.html)
