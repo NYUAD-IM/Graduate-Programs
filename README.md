@@ -27,6 +27,7 @@
 * [University of Denver - Emergent Digital Practices](http://www.du.edu/ahss/edp/index.html)
 * [University of Washington - DXARTS](https://dxarts.washington.edu/)
 * [University of Washington - MHCI+D](https://mhcid.washington.edu/)
+* [Worcester Polytechnic Institute - Interactive Media and Game Development](https://www.wpi.edu/academics/departments/interactive-media-game-development)
 
 #### Canada
 * [Concordia University - Computation Arts](https://www.concordia.ca/finearts/design/programs/graduate/design.html)
