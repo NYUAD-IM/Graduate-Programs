@@ -9,6 +9,7 @@
 * [Carnegie Mellon University - MCI](https://www.hcii.cmu.edu/academics/mhci)
 * [Colorado University - Technology, Arts & Media](http://tam.colorado.edu/)
 * [Cornell Tech - Connective Media MS](https://tech.cornell.edu/programs/masters-programs/technion-cornell-master-degree-in-connective-media)
+* [Duke University - PhD Computational Media, Arts & Cultures](https://gradschool.duke.edu/academics/programs-degrees/computational-media-arts-cultures)
 * [Georgia Tech - HCI Interactive Computing](http://mshci.gatech.edu/program/about)
 * [Georgia Tech - Digital Media](http://catalog.gatech.edu/programs/digital-media-phd/)
 * [NYU - Interactive Telecommunications Program MPS](https://tisch.nyu.edu/itp)
@@ -26,6 +27,7 @@
 * [UCSB - Media Arts and Technology Graduate Program](https://www.mat.ucsb.edu/)
 * [University of Denver - Emergent Digital Practices](http://www.du.edu/ahss/edp/index.html)
 * [University of Washington - DXARTS](https://dxarts.washington.edu/)
+* [University of Southern California Cinematic Arts - MFA in Interactive Media (Games & Health)](https://cinema.usc.edu/interactive/index.cfm)
 * [University of Washington - MHCI+D](https://mhcid.washington.edu/)
 * [Worcester Polytechnic Institute - Interactive Media and Game Development](https://www.wpi.edu/academics/departments/interactive-media-game-development)
 
