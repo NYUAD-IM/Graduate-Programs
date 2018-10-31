@@ -1,6 +1,6 @@
 # IM-Related Graduate Programs
 
-#### United States:
+#### United States
 * [Art Center College of Design - Graduate Media Design Practices MFA](http://mediadesignpractices.net/)  
 * [Alfred University - Electronic Integrated Arts](http://art.alfred.edu/graduate/mfa-eia/)
 * [California College of the Arts - Master of Interaction Design](https://www.cca.edu/academics/graduate/interaction-design)  
