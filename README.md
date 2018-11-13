@@ -65,3 +65,5 @@
 * Sweden
   * [Malmo University - Interaction design](http://edu.mah.se/en/Program/TAIND)
   * [Malmo University - Media and Communication Studies – Culture, Collaborative Media, and Cultural Industries](http://edu.mah.se/en/Program/HAMKV)
+  * [Umeå Institute of Design – Umeå University](http://www.dh.umu.se/en/)
+  
