@@ -8,6 +8,7 @@
 * [Carnegie Mellon University - MDes in Design for Interactions](http://design.cmu.edu/content/master-design) (2 years) 
 * [Carnegie Mellon University - MCI](https://www.hcii.cmu.edu/academics/mhci)
 * [Colorado University - Technology, Arts & Media](http://tam.colorado.edu/)
+* [Columbia University - MS Data Journalism](https://journalism.columbia.edu/ms-data-journalism)
 * [Cornell Tech - Connective Media MS](https://tech.cornell.edu/programs/masters-programs/technion-cornell-master-degree-in-connective-media)
 * [Duke University - PhD Computational Media, Arts & Cultures](https://gradschool.duke.edu/academics/programs-degrees/computational-media-arts-cultures)
 * [Georgia Tech - HCI Interactive Computing](http://mshci.gatech.edu/program/about)
@@ -45,6 +46,7 @@
 * [RCA - Innovation Design Engineering](https://www.rca.ac.uk/schools/school-of-design/innovation-design-engineering/)
 * [University College London - HCI MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/human-computer-interaction-msc)
 * [University of Edinburgh - MSc Design & Digital Media](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2019&id=37)
+* [University of Westminster - Interactive Media Practice MA](https://www.westminster.ac.uk/art-and-design-digital-media-and-games-computing-courses/2019-20/september/full-time/interactive-media-practice-ma)
 
 #### Europe
 * Denmark
