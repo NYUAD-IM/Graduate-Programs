@@ -53,6 +53,8 @@
   * [Copenhagen Institute of Interaction Design](http://ciid.dk/)  
 * Germany
   * [Berlin Unversity - Design Research Lab](http://www.design-research-lab.org/)
+  * [UdK - Berlin University of the Arts - Computation and Design](https://www.udk-berlin.de/en/courses/design-and-computation/)
+  * [Film University Konrad Wolf - Creative Technologies](ctech.filmuniversitaet.de)
   * [Max Planck Institute - Computer Science Research](http://www.cis.mpg.de/)
 * France
   * [Les Gobelins - Masters for Digital Design](http://www.gobelins-school.com/)
