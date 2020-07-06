@@ -10,6 +10,7 @@
 * [Colorado University - Technology, Arts & Media](http://tam.colorado.edu/)
 * [Columbia University - MS Data Journalism](https://journalism.columbia.edu/ms-data-journalism)
 * [Cornell Tech - Connective Media MS](https://tech.cornell.edu/programs/masters-programs/technion-cornell-master-degree-in-connective-media)
+* [Cranbrook Academy of Art - 4D Design MFA](https://cranbrookart.edu/departments/4d-design/)
 * [Duke University - PhD Computational Media, Arts & Cultures](https://gradschool.duke.edu/academics/programs-degrees/computational-media-arts-cultures)
 * [Georgia Tech - HCI Interactive Computing](http://mshci.gatech.edu/program/about)
 * [Georgia Tech - Digital Media](http://catalog.gatech.edu/programs/digital-media-phd/)
