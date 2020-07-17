@@ -38,6 +38,7 @@
 * [OCAD University -  Digital Futures](http://www.ocadu.ca/academics/graduate-studies.htm)
 
 #### UK
+* [Architects Association – MFA/MA in Spatial Performance and Design](https://www.aaschool.ac.uk/academicprogrammes/postgraduate/spatial-performance-design)
 * [Bartlett School of Architecture UCL - Masters in Design for Performance & Interaction](http://www.interactivearchitecture.org/dfpi)
 * [Goldsmith’s - Computational Arts MA](http://www.gold.ac.uk/pg/ma-computational-arts/)  
 * [Goldsmith’s - Computational Arts MFA](http://www.gold.ac.uk/pg/mfa-computational-arts/) 
